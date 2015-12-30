@@ -1,0 +1,5 @@
+framework module "PalindromeCheck" {
+    header "PalindromeCheck.h"
+
+    export *
+}
