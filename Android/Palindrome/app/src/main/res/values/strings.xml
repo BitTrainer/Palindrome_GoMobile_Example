@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Palindrome</string>
+    <string name="button_caption">Is this a palindrome?</string>
+    <string name="is_palindrom_response">Yes, this is a palindrome.</string>
+    <string name="is_not_a_palindrom_response">No, this is not a palindrome.</string>
+</resources>
